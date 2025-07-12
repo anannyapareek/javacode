@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=specialnumber
+comment1.params=
+comment1.target=int\ input()
+comment2.params=num\ check\ fact
+comment2.target=int\ extractionofdigits(int,\ int,\ int)
+comment3.params=j
+comment3.target=int\ factorial(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

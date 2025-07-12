@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=countprime
+comment1.params=n\ i
+comment1.target=void\ input(int,\ int)
+comment2.params=n\ i\ count
+comment2.target=int\ countprimeno(int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
