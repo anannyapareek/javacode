@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=secondlongest
+comment1.params=i\ word\ str\ max1\ max2\ word2
+comment1.target=void\ secondlongest22(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=str\ i\ j\ count\ count2\ vowelword
+comment2.target=void\ maxvowel(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

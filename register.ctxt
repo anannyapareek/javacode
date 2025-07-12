@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=register
+comment1.params=max
+comment1.target=register(int)
+comment2.params=
+comment2.target=void\ create()
+comment3.params=n
+comment3.target=void\ push(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ pop()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

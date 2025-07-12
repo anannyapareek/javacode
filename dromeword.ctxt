@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=dromeword
+comment1.params=s
+comment1.target=dromeword(java.lang.String)
+comment2.params=rev\ count\ i\ pos\ j
+comment2.target=int\ countPalin(java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

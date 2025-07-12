@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=tree
+comment1.params=
+comment1.target=void\ create()
+comment2.params=
+comment2.target=void\ traversal()
+comment3.params=
+comment3.target=void\ delete()
+comment4.params=p
+comment4.target=void\ push(treenode)
+comment4.text=\ void\ split()\r\n\ \ \ \ {\r\n\ \ \ \ Scanner\ sc\=new\ Scanner(System.in);\r\n\ \ \ \ int\ no\=sc.nextInt();\r\n\ \ \ \ prevnode\=\ new\ treenode();\r\n\ \ \ \ curr\=root;\r\n\ \ \ \ while(curr\!\=null)\r\n\ \ \ \ {\r\n\ \ \ \ while(curr\!\=null)\r\n\ \ \ \ {\r\n\ \ \ \ if(curr.left.info\=\=no\ &&\ curr.right.info)\r\n\ \ \ \ {\r\n\ \ \ \ prevnode\=curr;\r\n\ \ \ \ curr\=curr.left;\r\n\ \ \ \ newroot\=curr;\r\n\ \ \ \ prevnode.right\=null;\r\n\ \ \ \ prevnode.left\=null;\r\n\ \ \ \ break;\r\n\ \ \ \ }\r\n\ \ \ \ if(curr.right.info\=\=no)\r\n\ \ \ \ {\r\n\ \ \ \ prevnode\=curr;\r\n\ \ \ \ curr\=curr.right;\r\n\ \ \ \ newroot\=curr;\r\n\ \ \ \ prevnode.right\=null;\r\n\ \ \ \ prevnode.left\=null;\r\n\ \ \ \ break;\r\n\ \ \ \ }\r\n\ \ \ \ if(curr.right\!\=null)\r\n\ \ \ \ push(curr.right);\r\n\ \ \ \ curr\=curr.left;\r\n\ \ \ \ }\r\n\ \ \ \ curr\=pop();\ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n}
+comment5.params=
+comment5.target=treenode\ pop()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
